@@ -5,6 +5,7 @@ Cloud computing with Kubernetes and AWS.
 In addition, of course, almost classical set of skills: Linux, Git, SQL, relational databases, build tools, CI/CD pipelines, test-driven development. 
 
 ### 📝 Most recent blog posts:
+* [Manage data streams with Reactor Project](https://fedor-malyshkin.medium.com/manage-data-streams-with-reactor-project-da56922a8c4c)
 * [GitHub Actions to build your Java/Scala application, test and deploy it to Kubernetes cluster](https://levelup.gitconnected.com/github-actions-to-build-your-java-scala-application-test-and-deploy-it-to-kubernetes-cluster-484779dfc200)  
 * [Conway’s Game of Life streaming with Akka Streams](https://fedor-malyshkin.medium.com/conways-game-of-life-streaming-with-akka-streams-abddb9773d48)
 
