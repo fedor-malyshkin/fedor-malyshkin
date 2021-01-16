@@ -15,6 +15,6 @@ In addition, of course, almost classical set of skills: Linux, Git, SQL, relatio
 * Site: https://fedor-malyshkin.github.io (can find there recent CV)
 
 ### :chart_with_upwards_trend: Some stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fedor-malyshkin&show_icons=true&count_private=true&hide=contribs)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedor-malyshkin&hide=javascript,html,CSS&layout=compact&exclude_repo=hflabs_am,magnetosoft_big_archive,magnetosoft_magnet)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fedor-malyshkin&show_icons=true&count_private=true&hide=contribs)](https://github.com/fedor-malyshkin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedor-malyshkin&hide=javascript,html,CSS&layout=compact&exclude_repo=hflabs_am,magnetosoft_big_archive,magnetosoft_magnet)](https://github.com/fedor-malyshkin)
 
