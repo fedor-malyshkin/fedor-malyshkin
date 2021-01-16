@@ -10,8 +10,9 @@ In addition, of course, almost classical set of skills: Linux, Git, SQL, relatio
 * [Conway’s Game of Life streaming with Akka Streams](https://fedor-malyshkin.medium.com/conways-game-of-life-streaming-with-akka-streams-abddb9773d48)
 
 ### 📫 How to reach me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fedor-malyshkin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fedor-malyshkin.github.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/fedor_malyshkin)  
-
+* LinkedIn: https://www.linkedin.com/in/fedor-malyshkin
+* Telegram: [@fedor_malyshkin](https://t.me/fedor_malyshkin)
+* Site: https://fedor-malyshkin.github.io (can find there recent CV)
 
 ### :chart_with_upwards_trend: Some stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fedor-malyshkin&show_icons=true&count_private=true&hide=contribs)  
