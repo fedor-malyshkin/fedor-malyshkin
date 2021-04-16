@@ -1,5 +1,5 @@
 ### Hi there 👋
-9 years of experience in Java and 2 years of experience in Scala, hands-on experience in microservices development (Akka Http, Spring Boot) and stream data processing (Akka Stream, Monix, RxJava2).
+10 years of experience in Java, Scala (2 years) and Python (2 years), hands-on experience in microservice development (Akka Http, Spring Boot) and stream data processing (Akka Stream, Monix, RxJava2).
 Cloud computing with Kubernetes and AWS. 
 
 In addition, of course, almost classical set of skills: Linux, Git, SQL, relational databases, build tools, CI/CD pipelines, test-driven development. 
@@ -12,7 +12,7 @@ In addition, of course, almost classical set of skills: Linux, Git, SQL, relatio
 ### 📫 How to reach me:
 * LinkedIn: https://www.linkedin.com/in/fedor-malyshkin
 * Telegram: [@fedor_malyshkin](https://t.me/fedor_malyshkin)
-* Site: https://fedor-malyshkin.github.io (can find there recent CV)
+* Site: https://fedor-malyshkin.github.io (can find the recent CV there)
 
 ### :chart_with_upwards_trend: Some stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=fedor-malyshkin&show_icons=true&count_private=true&hide=contribs)](https://github.com/fedor-malyshkin)
