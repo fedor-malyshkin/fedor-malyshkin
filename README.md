@@ -1,5 +1,5 @@
 ### Hi there 👋
-10 years of experience in Java, Scala (2 years) and Python (2 years), hands-on experience in microservice development (Akka Http, Spring Boot) and stream data processing (Akka Stream, Monix, RxJava2).
+11 years of experience in Java, Scala (3 years) and Python (3 years), hands-on experience in microservice development (Akka Http, Spring Boot) and stream data processing (Akka Stream, Monix, RxJava2).
 Cloud computing with Kubernetes and AWS. 
 
 In addition, of course, almost classical set of skills: Linux, Git, SQL, relational databases, build tools, CI/CD pipelines, test-driven development. 
